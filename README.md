@@ -34,7 +34,7 @@
 ## 💼 Internship Experience
 
 **Data Analyst Intern – NaBFID Bank**
-📅 March 2026 – June 2026
+📅 March 2026 – september 2026
 
 * Worked on **data cleaning and analysis using Python and SQL**
 * Assisted in analyzing **financial datasets**
