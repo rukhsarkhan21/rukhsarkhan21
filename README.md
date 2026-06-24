@@ -1,6 +1,6 @@
 # Hi, I'm Rukhsar Khan 👋
 
-🎓 3rd-year BSc Data Science Student
+🎓 BSc Data Science Student
 📍 Mumbai, India
 💼 Data Analyst Intern at NaBFID Bank (Mar 2026 – Jun 2026)
 ## 🚀 About Me
