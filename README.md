@@ -1,63 +1,98 @@
 # Hi, I'm Rukhsar Khan 👋
-
-🎓 BSc Data Science Student
+📊 Aspiring Data Analyst | B.Sc. Data Science Student
+🏦 Former Data Analyst Intern at NaBFID Bank
 📍 Mumbai, India
-💼 Data Analyst Intern at NaBFID Bank (Mar 2026 – Jun 2026)
-## 🚀 About Me
 
-* Currently pursuing **BSc in Data Science (3rd Year)**
-* Working as a **Data Analyst Intern at NaBFID Bank**
-* Learning **Python, SQL, and Machine Learning**
-* Interested in **Data Analytics, Data Visualization, and ML**
-* I enjoy working with data and turning it into meaningful insights
-* **Goal:** Become a Data Analyst / Data Scientist
+## About Me
+I am a B.Sc. Data Science student with hands-on experience in Data Analytics through a 6-month internship at NaBFID Bank.
+I am passionate about transforming raw data into meaningful business insights using data analysis, visualization, and reporting techniques.
+Currently seeking opportunities in Data Analytics, Business Intelligence, and Data Science.
 
-## 🛠 Tech Stack
-**Languages**
-* Python
-* SQL
-**Tools**
-* Jupyter Notebook
-* VS Code
-* Git & GitHub
-**Libraries**
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-**Areas**
-* Data Analysis
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* Machine Learning Basics
+## Technical Skills
 
-## 💼 Internship Experience
+### Programming Languages
+- Python
+- SQL
 
-**Data Analyst Intern – NaBFID Bank**
-📅 March 2026 – september 2026
+### Databases
+- PostgreSQL
+- Oracle SQL
 
-* Worked on **data cleaning and analysis using Python and SQL**
-* Assisted in analyzing **financial datasets**
-* Created **data visualizations and reports**
-* Helped in identifying **patterns and insights from data**
+### Data Analysis
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
 
+### Data Visualization
+- Power BI
+- Matplotlib
+- Seaborn
 
-## 📊 Projects
+### Tools
+- Excel
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
 
-**Sales Data Analysis**
+---
 
-* Analyzed sales dataset using Python
-* Used **Pandas and Matplotlib** for data analysis and visualization
-* Identified monthly sales trends and insights
-**Customer Segmentation**
-* Performed clustering analysis on customer data
-* Used **Python and Seaborn** for visualization
-* Grouped customers based on purchasing behavior
-**Power BI Dashboard**
-* Created an interactive dashboard to analyze business data
-* Visualized KPIs and trends for better decision making
-## 📫 How to reach me  
-- *LinkedIn:* https://www.linkedin.com/in/rukhsar-khan-3289ab367  
-- *GitHub:* https://github.com/rukhsarh21  
-## ⚡ Fun Fact  
-I enjoy exploring real-world datasets and turning them into meaningful stories 📈
+## Internship Experience
+
+### Data Analyst Intern | NaBFID Bank
+
+*Duration:* 6 Months
+
+- Performed data cleaning and transformation using Python and SQL
+- Analyzed financial datasets to generate business insights
+- Created reports and visualizations for data-driven decision making
+- Conducted exploratory data analysis to identify trends and patterns
+- Assisted in preparing analytical reports for business teams
+
+---
+
+## Featured Projects
+
+### 🏦 Banking Analytics Dashboard
+- Built an interactive Power BI dashboard
+- Analyzed banking KPIs and business performance
+- Created visual reports for decision making
+
+### 📈 Financial Intelligence Hub
+- Financial analytics project using SQL and Power BI
+- Analyzed financial datasets and generated insights
+- Developed interactive dashboards and reports
+
+### 📊 Sales Data Analysis
+- Analyzed sales datasets using Python and Pandas
+- Performed data cleaning and EDA
+- Identified sales trends and business opportunities
+
+### 👥 Customer Segmentation Analysis
+- Applied clustering techniques on customer data
+- Grouped customers based on purchasing behavior
+- Generated actionable business insights
+
+### 📉 Retail Sales Dashboard
+- Developed Power BI dashboard for sales analysis
+- Visualized KPIs, revenue trends, and profitability
+- Improved business reporting through interactive visuals
+
+---
+
+## Achievements
+
+🏆 Completed 6-Month Data Analyst Internship at NaBFID Bank
+🏆 Built multiple Data Analytics and Power BI projects
+🏆 Developed skills in Python, SQL, PostgreSQL, and Business Intelligence
+🏆 Experienced in data visualization and reporting
+
+---
+
+## Connect With Me
+
+📧 Email: rukhsarkhan5487@gmail.com
+💼 LinkedIn: [Rukhsar Khan](https://www.linkedin.com/in/rukhsar-khan-3289ab367)
+💻 GitHub: [rukhsarkhan21](https://github.com/rukhsarkhan21)
+---
